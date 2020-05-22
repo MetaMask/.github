@@ -1,13 +1,5 @@
 # Security Policy
 
-## Supported versions
-
-The following table describes the versions of this project that are currently supported with security updates:
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 0.x     | :white_check_mark: |
-
 ## Responsible Disclosure Security Policy
 
 A responsible disclosure policy helps protect users of the project from publicly disclosed security vulnerabilities without a fix by employing a process where vulnerabilities are first triaged in a private manner, and only publicly disclosed after a reasonable time period that allows patching the vulnerability and provides an upgrade path for users.
