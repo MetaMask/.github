@@ -1,0 +1,14 @@
+{
+  "name": "Create Release Pull Request Workflow",
+  "description": "Workflow template for creating a release pull request.",
+  "iconName": "metamask-fox",
+  "categories": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "filePatterns": [
+    ".nvmrc$",
+    "package.json$",
+    "CHANGELOG.md$"
+  ]
+}
