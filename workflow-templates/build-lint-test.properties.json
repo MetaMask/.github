@@ -1,0 +1,13 @@
+{
+  "name": "Build, Lint, and Test",
+  "description": "Workflow template for building, linting, and testing a repository.",
+  "iconName": "metamask-fox",
+  "categories": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "filePatterns": [
+    ".nvmrc$",
+    "package.json$"
+  ]
+}
