@@ -20,3 +20,4 @@ If you discover a security vulnerability, please use one of the following means 
 
 Please note this email is strictly for reporting security vulnerabilities. For support queries, contact [support@metamask.io](mailto:support@metamask.io).
 Your efforts to responsibly disclose your findings are sincerely appreciated and will be taken into account to acknowledge your contributions.
+ 
