@@ -6,4 +6,4 @@ If you want to report a security issue, please [submit it securely on our Hacker
 
 You can find the code for our various products and components in this org.
 
-For other information, visit [our main website](https://metamask.io).
+For general information, visit [metamask.io](https://metamask.io).
