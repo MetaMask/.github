@@ -14,8 +14,9 @@ We consider the security of our systems a top priority. But no matter how much e
 
 If you discover a security vulnerability, please use one of the following means of communications to report it to us:
 
-- Report the security issue on our [MetaMask HackerOne](https://hackerone.com/metamask) program.
+- Report the security issue to the Node.js Security Working Group through the [HackerOne program](https://hackerone.com/nodejs-ecosystem) for ecosystem modules on npm, or to [Snyk Security Team](https://snyk.io/vulnerability-disclosure). They will help triage the security issue and work with all involved parties to remediate and release a fix.
 
-For further questions about our security program please visit the [MetaMask Security Program](https://metamask.io/security/) page.
+- Report the security issue to the MetaMask team directly at security [at] metamask [dot] io.
 
+Please note this email is strictly for reporting security vulnerabilities. For support queries, contact [support@metamask.io](mailto:support@metamask.io).
 Your efforts to responsibly disclose your findings are sincerely appreciated and will be taken into account to acknowledge your contributions.
