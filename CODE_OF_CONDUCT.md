@@ -34,6 +34,9 @@ Examples of unacceptable behavior include:
 * Public or private harassment
 * Publishing others' private information, such as a physical or email
   address, without their explicit permission
+* Unsolicited or unwanted messaging, including outreach via personal contact
+  information, social media platforms, or other communication channels to draw
+  attention to contributions, issues, or pull requests.
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
