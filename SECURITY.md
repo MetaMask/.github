@@ -18,4 +18,4 @@ If you discover a security vulnerability, please use one of the following means 
 
 For further questions about our security program please visit the [MetaMask Security Program](https://metamask.io/security/) page.
 
-Your efforts to responsibly disclose your findings are sincerely appreciated and will be taken into account to acknowledge your contributions.
+Your efforts to responsibly disclose your findings are sincerely appreciated and will be taken into account to acknowledge your contributions
