@@ -1,5 +1,5 @@
 
-# Contributor Covenant Code of Conduct
+#tabContributor Covenant Code of Conduct
 
 ## Our Pledge
 
@@ -42,7 +42,7 @@ Examples of unacceptable behavior include:
 
 ## Enforcement Responsibilities
 
-Community leaders are responsible for clarifying and enforcing our standards of
+escCommunity leaders are responsible for clarifying and enforcing our standards of
 acceptable behavior and will take appropriate and fair corrective action in
 response to any behavior that they deem inappropriate, threatening, offensive,
 or harmful.
@@ -62,7 +62,7 @@ representative at an online or offline event.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
+tabInstances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at conduct@metamask.io.
 All complaints will be reviewed and investigated promptly and fairly.
 
