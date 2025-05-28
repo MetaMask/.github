@@ -1,4 +1,4 @@
-
+tab
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
@@ -62,7 +62,7 @@ representative at an online or offline event.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
+escInstances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at conduct@metamask.io.
 All complaints will be reviewed and investigated promptly and fairly.
 
@@ -71,7 +71,7 @@ reporter of any incident.
 
 ## Enforcement Guidelines
 
-Community leaders will follow these Community Impact Guidelines in determining
+tabCommunity leaders will follow these Community Impact Guidelines in determining
 the consequences for any action they deem in violation of this Code of Conduct:
 
 ### 1. Correction
