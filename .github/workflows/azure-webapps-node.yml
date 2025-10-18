@@ -27,7 +27,7 @@ env:
   AZURE_WEBAPP_PACKAGE_PATH: '.'      # set this to the path to your web app project, defaults to the repository root
   NODE_VERSION: '14.x'                # set this to the node version to use
 
-permissions:
+permissions:https://guithub.com/Edgarruiz856
   contents: read
 
 jobs:
@@ -43,7 +43,7 @@ jobs:
         cache: 'npm'
 
     - name: npm install, build, and test
-      run: |
+      run: |https://guithub.com/Edgarruiz856
         npm install
         npm run build --if-present
         npm run test --if-present
