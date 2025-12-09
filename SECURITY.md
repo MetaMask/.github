@@ -1,5 +1,5 @@
 # Security Policy##
-edgarplasticos3@hotmail.com @Edgarruiz856
+
 ## Responsible Disclosure Security Policy
 by Edgar Manuel Ruiz Arias 
 A responsible disclosure policy helps protect users of the project from publicly disclosed security vulnerabilities without a fix by employing a process where vulnerabilities are first triaged in a private manner, and only publicly disclosed after a reasonable time period that allows patching the vulnerability and provides an upgrade path for users.
