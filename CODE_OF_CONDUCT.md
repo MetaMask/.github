@@ -10,8 +10,9 @@ identity and expression, level of experience, education, socio-economic status,
 nationality, personal appearance, race, religion, or sexual identity
 and orientation.
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+We pledge to act and interact — whether directly or through AI agents acting on
+our behalf — in ways that contribute to an open, welcoming, diverse, inclusive,
+and healthy community.
 
 ## Our Standards
 
@@ -39,6 +40,47 @@ Examples of unacceptable behavior include:
   attention to contributions, issues, or pull requests.
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
+* Using AI agents in ways that disrupt community spaces or generate excessive
+  noise
+
+## AI Agents
+
+AI agents — autonomous or semi-autonomous systems that can reason, make
+decisions, and take actions within community spaces — are a distinct category
+from traditional automation like CI scripts or linter bots. Because AI agents
+can act with a degree of independence, additional expectations apply.
+
+### Operator Accountability
+
+The person or team that deploys, configures, or directs an AI agent is
+accountable for its behavior. An agent's autonomy does not diminish the
+responsibility of its operator to uphold this Code of Conduct. If an AI agent
+causes harm, the operator is expected to promptly disable it, address the
+impact, and cooperate with community leaders.
+
+### Transparency
+
+Operators of AI agents should:
+
+* Clearly identify agent accounts and contributions as AI-generated or
+  AI-assisted
+* Describe the agent's purpose and intended behavior when requested
+* Provide a way to contact the operator
+
+### Unacceptable Agent Behavior
+
+In addition to the general standards above, the following are specifically
+prohibited:
+
+* Using AI agents to harass individuals through targeted or coordinated actions
+* Operating agents at a volume or frequency that degrades the experience for
+  other community members
+* Using AI agents to evade moderation actions or bans
+* Deploying agents that impersonate community members or misrepresent their
+  origin
+
+Community leaders may request that any AI agent be paused, modified, or
+removed. Operators are expected to comply promptly.
 
 ## Enforcement Responsibilities
 
@@ -58,7 +100,8 @@ This Code of Conduct applies within all community spaces, and also applies when
 an individual is officially representing the community in public spaces.
 Examples of representing our community include using an official e-mail address,
 posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+representative at an online or offline event. This includes actions taken by
+AI agents operating on behalf of a community member.
 
 ## Enforcement
 
