@@ -10,9 +10,7 @@ identity and expression, level of experience, education, socio-economic status,
 nationality, personal appearance, race, religion, or sexual identity
 and orientation.
 
-We pledge to act and interact — whether directly or through AI agents acting on
-our behalf — in ways that contribute to an open, welcoming, diverse, inclusive,
-and healthy community.
+We pledge to act and interact — whether directly or through AI agents acting on our behalf — in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
 ## Our Standards
 
@@ -26,9 +24,6 @@ community include:
   and learning from the experience
 * Focusing on what is best not just for us as individuals, but for the
   overall community
-* Clearly identifying AI agent accounts and AI-assisted contributions as such
-* Describing an AI agent's purpose and behavior when requested, and providing
-  a way to contact the operator
 
 Examples of unacceptable behavior include:
 
@@ -60,14 +55,16 @@ or harmful.
 Community leaders have the right and responsibility to remove, edit, or reject
 comments, commits, code, wiki edits, issues, and other contributions that are
 not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate. Community leaders may request that any AI agent be
-paused, modified, or removed, and operators are expected to comply promptly.
+decisions when appropriate.
 
+Community leaders may request that any AI agent be paused, modified, or removed, and operators are expected to comply promptly.
 The person or team that deploys, configures, or directs an AI agent is
 accountable for its behavior within community spaces. An agent's autonomy does
 not diminish the responsibility of its operator to uphold this Code of Conduct.
 If an AI agent causes harm, the operator is expected to promptly disable it,
-address the impact, and cooperate with community leaders.
+address the impact, and cooperate with community leaders. Operators should
+describe an AI agent's purpose and behavior when requested, and provide a way
+to be contacted.
 
 ## Scope
 
@@ -75,9 +72,7 @@ This Code of Conduct applies within all community spaces, and also applies when
 an individual is officially representing the community in public spaces.
 Examples of representing our community include using an official e-mail address,
 posting via an official social media account, or acting as an appointed
-representative at an online or offline event. This includes actions taken by
-AI agents — autonomous or semi-autonomous systems that can reason, make
-decisions, and take actions independently — operating on behalf of a community
+representative at an online or offline event. This includes actions taken by AI agents — autonomous or semi-autonomous systems that can reason, make decisions, and take actions independently — operating on behalf of a community
 member.
 
 ## Enforcement
