@@ -39,11 +39,9 @@ Examples of unacceptable behavior include:
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 * Using AI agents to harass individuals through targeted or coordinated actions
-* Operating AI agents at a volume or frequency that degrades the experience
-  for other community members
+* Operating AI agents at a volume or frequency that degrades the experience for other community members
 * Using AI agents to evade moderation actions or bans
-* Deploying AI agents that impersonate community members or misrepresent
-  their origin
+* Deploying AI agents that impersonate community members or misrepresent their origin
 
 ## Enforcement Responsibilities
 
@@ -58,22 +56,14 @@ not aligned to this Code of Conduct, and will communicate reasons for moderation
 decisions when appropriate.
 
 Community leaders may request that any AI agent be paused, modified, or removed, and operators are expected to comply promptly.
-The person or team that deploys, configures, or directs an AI agent is
-accountable for its behavior within community spaces. An agent's autonomy does
-not diminish the responsibility of its operator to uphold this Code of Conduct.
-If an AI agent causes harm, the operator is expected to promptly disable it,
-address the impact, and cooperate with community leaders. Operators should
-describe an AI agent's purpose and behavior when requested, and provide a way
-to be contacted.
+The person or team that deploys, configures, or directs an AI agent is accountable for its behavior within community spaces. An agent's autonomy does not diminish the responsibility of its operator to uphold this Code of Conduct.
+If an AI agent causes harm, the operator is expected to promptly disable it, address the impact, and cooperate with community leaders.
+Operators should describe an AI agent's purpose and behavior when requested, and provide a way to be contacted.
 
 ## Scope
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event. This includes actions taken by AI agents — autonomous or semi-autonomous systems that can reason, make decisions, and take actions independently — operating on behalf of a community
-member.
+This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces.
+Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. This includes actions taken by AI agents — autonomous or semi-autonomous systems that can reason, make decisions, and take actions independently — operating on behalf of a community member.
 
 ## Enforcement
 
