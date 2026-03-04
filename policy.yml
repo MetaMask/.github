@@ -1,0 +1,32 @@
+# Shared policy-bot configuration for MetaMask org.
+# Applied to all repos where the GitHub App is installed
+# and no local .policy.yml exists.
+#
+# Docs: https://github.com/palantir/policy-bot#approval-rules
+
+policy:
+  approval:
+    - or:
+        - "cherry-pick auto-approval"
+        - "standard human review"
+
+approval_rules:
+  - name: "cherry-pick auto-approval"
+    description: "Auto-approve cherry-pick PRs to release branches that meet all criteria"
+    if:
+      title:
+        matches:
+          - "(?i)cherry.?pick"
+      targets_branch:
+        pattern: "^release/.*$"
+      modified_lines:
+        total: "< 200"
+    requires:
+      count: 0
+
+  - name: "standard human review"
+    description: "Default team-based review for all other PRs"
+    requires:
+      count: 1
+      teams:
+        - "MetaMask/release-team"
