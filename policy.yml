@@ -8,7 +8,8 @@ policy:
   approval:
     - or:
         - "cherry-pick auto-approval"
-        - "no approval necessary"
+        - "release branch review"
+        - "non-release fallback"
 
 approval_rules:
   - name: "cherry-pick auto-approval"
@@ -24,7 +25,22 @@ approval_rules:
     requires:
       count: 0
 
-  - name: "no approval necessary"
-    description: "Fallback rule — matches all PRs so policy-bot reports a clean status instead of an error"
+  - name: "release branch review"
+    description: "Require release-team review for all PRs targeting release branches"
+    if:
+      targets_branch:
+        pattern: "^release/.*$"
+    requires:
+      count: 1
+      teams:
+        - "MetaMask/release-team"
+
+  # RE2-compatible negation of "^release/.*$" (Go regexp does not support lookaheads).
+  # Matches any branch name that does NOT start with "release/".
+  - name: "non-release fallback"
+    description: "Auto-approve PRs targeting non-release branches so policy-bot posts a clean status"
+    if:
+      targets_branch:
+        pattern: "^([^r]|r[^e]|re[^l]|rel[^e]|rele[^a]|relea[^s]|releas[^e]|release[^/]).*$|^.{0,7}$"
     requires:
       count: 0
