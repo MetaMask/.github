@@ -15,6 +15,9 @@ approval_rules:
   - name: "cherry-pick auto-approval"
     description: "Auto-approve cherry-pick PRs to release branches that meet all criteria"
     if:
+      has_author_in:
+        organizations:
+          - "MetaMask"
       title:
         matches:
           - "(?i)cherry.?pick"
