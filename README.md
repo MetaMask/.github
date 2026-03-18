@@ -1,3 +1,8 @@
+https://usercontent.irccloud-cdn.com/file/wV5dCgad
+{"spdxVersion":"SPDX-2.3","dataLicense":"CC0-1.0","SPDXID":"SPDXRef-DOCUMENT","name":"com.github.Edgarruiz856/.github","documentNamespace":"https://spdx.org/spdxdocs/protobom/ba3dcee2-fddb-4107-ab2e-0e77658da87e","creationInfo":{"creators":["Tool: protobom-v0.0.0-20251113174742-69d60134dc28+dirty","Tool: GitHub.com-Dependency-Graph"],"created":"2025-11-13T23:19:31Z"},"packages":[{"name":"com.github.Edgarruiz856/.github","SPDXID":"SPDXRef-github-Edgarruiz856-.github-main-3bf3b8","versionInfo":"main","downloadLocation":"git+https://github.com/Edgarruiz856/.github","filesAnalyzed":false,"externalRefs":[{"referenceCategory":"PACKAGE-MANAGER","referenceType":"purl","referenceLocator":"pkg:github/Edgarruiz856/.github@main"}]}],"relationships":[{"spdxElementId":"SPDXRef-DOCUMENT","relatedSpdxElement":"SPDXRef-github-Edgarruiz856-.github-main-3bf3b8","relationshipType":"DESCRIBES"}]}
+https://github.com/Edgarruiz856/Edgarruiz856/blob/main/README.md
+https://github.com/Edgarruiz856/ficticio-octo-fiesta/blob/main/README.md
+
 == Welcome! ==
 
 
