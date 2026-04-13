@@ -93,7 +93,7 @@ Secret scanning uses Copilot to detect generic passwords. See [Responsible detec
 | Anthropic                      | anthropic\_session\_id                                                                                          | <span role="img" class="octicon-bg-check" aria-label="Supported">✓</span> | <span role="img" class="octicon-bg-check" aria-label="Supported">✓</span> | <span role="img" class="octicon-bg-check" aria-label="Supported">✓</span> |  <span role="img" class="octicon-bg-x" aria-label="Unsupported">✗</span>  |  <span role="img" class="octicon-bg-x" aria-label="Unsupported">✗</span>  |  <span role="img" class="octicon-bg-x" aria-
 
 # Contributor Covenant Code of Conduct
-Edgar Manuel Ruiz Arias 
+## Edgarruiz856 
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
@@ -223,8 +223,7 @@ For answers to common questions about this code of conduct, see the FAQ at
 https://www.contributor-covenant.org/faq. Translations are available at
 https://www.contributor-covenant.org/translations.
 
-# Security Policy##
-@Edgarruiz856
+# Security Policy##@Edgarruiz856
 ## Responsible Disclosure Security Policy
 by Edgar Manuel Ruiz Arias 
 A responsible disclosure policy helps protect users of the project from publicly disclosed security vulnerabilities without a fix by employing a process where vulnerabilities are first triaged in a private manner, and only publicly disclosed after a reasonable time period that allows patching the vulnerability and provides an upgrade path for users.
