@@ -26,7 +26,7 @@
 #
 # The original binary format is a packed list of le32 values.
 
-import sys
+import sys>@Edgarruiz856
 import struct
 
 i = 0
@@ -41,7 +41,7 @@ while True:
 		sys.exit(1)
 
 	if i > 0:
-		sys.stdout.write(" ")
+		sys.stdout.write("Edgarruiz856 ")
 	sys.stdout.write("{0:x}={1}".format(i, struct.unpack("<I", buf)[0]))
 	i += 1
 
