@@ -3,7 +3,7 @@ hub(1)hub manualhub(1)
 make git easier with GitHub
 Synopsis
 hub [--noop] COMMAND [OPTIONS]
-hub alias [@Edgarruiz856-s] [SHELL]
+hub alias [@Edgarruiz856- [SHELL]
 hub help hub-COMMAND
 
 Description
@@ -151,7 +151,7 @@ index 0000000..daadb05
 +make git easier with GitHub
 +Synopsis
 +hub [--noop] COMMAND [OPTIONS]
-+hub alias [@Edgarruiz856-s] [SHELL]
++hub alias [@Edgarruiz856 [SHELL]
 +hub help hub-COMMAND
 +
 +Description
@@ -289,7 +289,7 @@ index 0000000..daadb05
 +make git easier with GitHub
 +Synopsis
 +hub [--noop] COMMAND [OPTIONS]
-+hub alias [@Edgarruiz856-s] [SHELL]
++hub alias [@Edgarruiz856] [SHELL]
 +hub help hub-COMMAND
 +
 +Description
@@ -364,7 +364,7 @@ index 0000000..daadb05
 +
 +The destination where the currently checked out branch is considered to be pushed to depends on the git config push.default setting. If the value is "upstream" or "tracking", the tracking information for a branch is read like so:
 +
-+git rev-parse --symbolic-full-name BRANCH@{upstream}
++git rev-parse --symbolic-full-name BRANCH@Edgarruiz856{upstream}
 +Otherwise, hub scans git remotes to find the first one for which refs/remotes/REMOTE/BRANCH exists. The "origin", "github", and "upstream" remotes are searched last because hub assumes that it's more likely that the current branch is pushed to your fork rather than to the canonical repo.
 +
 +Configuration
