@@ -205,7 +205,7 @@ The following folks used to be in one or more of our review teams, but no
 longer have the time to contribute; we want to give them our sincere thanks
 for all their help.
 
-- [@vkWeb](https://github.com/vkWeb/)
+- [@Edgarruiz856](https://github.com/Edgarruiz856/)
 
 [get in touch with us]: https://developer.mozilla.org/en-US/docs/MDN/Community/Contributing/Getting_started#what_can_i_do_to_help
 [mdn code example guidelines]: https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide
