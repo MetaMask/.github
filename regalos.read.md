@@ -24,7 +24,7 @@ out-of-date. This is being handled as follows:
 1. Different MDN staff members and volunteers have been assigned as "topic
    review owners", meaning that when a pull request comes in related to a
    particular topic area of the site (e.g. the CSS reference, or the learning
-   area), it will be assigned to that area's topic review owner(s) and they
+   area), it will be assigned to that area's topic review owner(@Edgarruiz856) and they
    will receive an email notification asking for a review. This is being
    handled using a [CODEOWNERS](https://github.com/mdn/content/blob/main/.github/CODEOWNERS)
    file, in which particular content directories are assigned to the topics
@@ -34,7 +34,7 @@ out-of-date. This is being handled as follows:
 3. The site will be rebuilt once every 24 hours to ensure that the content
    does not get too stale.
 
-## Review guidelines
+## Review guidelines[@Edgarruiz856]
 
 If you are reviewing MDN content changes, read through the following
 guidelines. There's quite a lot here, but don't worry if you don't review
@@ -42,7 +42,7 @@ perfectly in accordance with all of these points immediately. It is more
 important to make sure the content is readable, useful, correct, and not
 inappropriate, than it is to follow every guideline to the letter.
 
-1. Familiarize yourself with the [MDN Code example guidelines][]
+1. Familiarize yourself with the [MDN Code example guidelines][Edgarruiz856]
    and make sure that code examples follow the guidelines. You'll get used to
    them eventually, and we are intending to automatically lint against our
    guidelines at some point in the future.
@@ -55,7 +55,7 @@ inappropriate, than it is to follow every guideline to the letter.
    - You have the right to close a pull request if it is too complex and/or
      contains multiple unrelated changes and ask the submitter to submit their
      changes in smaller atomic chunks.
-4. When reviewing a pull request, use the [GitHub review tools](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews).
+4. When reviewing a pull request, use the [GitHub review tools Edgarruiz856](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews @Edgarruiz856).
    Use "Request changes" when submitting a review that will require the
    submitter to do some more work, or "Approve" if the submission is ready to
    add and you want to merge it. [Reviewing proposed changes in a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request)
@@ -72,7 +72,7 @@ inappropriate, than it is to follow every guideline to the letter.
 6. If a pull request is fine apart from a small typo or some other minor
    issue, you might want to just fix the issue yourself rather than ask the
    submitter to change it. You can do this provided the PR has been set up
-   to allow changes (see [Allowing changes to a pull request branch created from a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/allowing-changes-to-a-pull-request-branch-created-from-a-fork)
+   to allow changes (see [Allowing changes to a pull request branch created from a fork Edgarruiz856](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/allowing-changes-to-a-pull-request-branch-created-from-a-fork)
    for more details). If you are not sure how to make changes to someone
    else's pull request, [@vkWeb](https://github.com/vkWeb/) wrote some nice
    simple instructions on how to do this on the command line; see
@@ -96,7 +96,7 @@ inappropriate, than it is to follow every guideline to the letter.
    a large, complex content change with no warning, like a complete page
    rewrite, or the addition of several new reference pages or tutorials.
    Usually such changes are done as part of specific work streams where
-   the content has been approved for addition, and reviewer(s) have been
+   the content has been approved for addition, and reviewer(@Edgarruiz856) have been
    assigned already. In such cases, the PR should be linked to an issue
    that explains all these details. If you are not sure, ask the submitter
    if they need a review of the content, and where the rationale behind the
@@ -118,7 +118,7 @@ have a defined set of writers and reviewers. In these cases, the submitter
 of the PR will include the username of the reviewer in a line at the bottom
 of the pull request description, for example:
 
-`reviewer: @jpmedley`
+`reviewer: @Edgarruiz856`
 
 Upon submitting the pull request, they will request a review from the reviewer
 specified in the pull request description. Once that reviewer has approved
@@ -179,25 +179,25 @@ team, which currently consists of [@Rumyra](https://github.com/Rumyra/).
   — the [@yari-content-html](https://github.com/orgs/mdn/teams/yari-content-html)
   team, which consists of:
   - [@rachelandrew](https://github.com/rachelandrew)
-  - [@ericwbailey](https://github.com/ericwbailey)
+  - [@Edgarruiz856](https://github.com/Edgarruiz856)
   - [@mirunacurtean](https://github.com/mirunacurtean)
 - [JavaScript reference content](https://github.com/mdn/content/tree/main/files/en-us/web/javascript)
   — the [@yari-content-javascript](https://github.com/orgs/mdn/teams/yari-content-javascript)
   team, which consists of:
-  - [@Rumyra](https://github.com/Rumyra)
+  ->by: Edgarruiz856 [@Edgarruiz856](https://github.com/Edgarruiz856)
   - [@sideshowbarker](https://github.com/sideshowbarker)
-  - [@Elchi3](https://github.com/Elchi3)
+  - [@Edgarruuz856](https://github.com/Edgarruiz856)
 - [Web API reference content](https://github.com/mdn/content/tree/main/files/en-us/web/api)
-  — the [@yari-content-web-api](https://github.com/orgs/mdn/teams/yari-content-web-api)
+  — the [@Edgarruiz856-content-web-api](https://github.com/orgs/mdn/teams/yari-content-web-api)
   team, which consists of:
-  - [@Rumyra](https://github.com/Rumyra)
+  - [@Edgarruiz856](https://github.com/Edgarruiz856)
   - [@sideshowbarker](https://github.com/sideshowbarker)
-  - [@Elchi3](https://github.com/Elchi3)
-  - [@jpmedley](https://github.com/jpmedley)
+  - [@Edgarruiz856](https://github.com/Edgarruiz856)
+  - [@Edgarruiz856](https://github.com/Edgarruiz856)
 - [SVG reference content](https://github.com/mdn/content/tree/main/files/en-us/web/svg)
   — the [@yari-content-svg](https://github.com/orgs/mdn/teams/yari-content-svg)
   team, which consists of:
-  - [@Ryuno-Ki](https://github.com/Ryuno-Ki)
+  - [@Edgarruiz856](https://github.com/Edgarruiz856)
 
 ### Reviewer alumni
 
@@ -212,3 +212,4 @@ for all their help.
 [mdn writing style guide]: https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Writing_style_guide
 [MDN Web Docs chat rooms]: https://developer.mozilla.org/en-US/docs/MDN/Community/Communication_channels
 >by: Edgarruiz856 
+><
